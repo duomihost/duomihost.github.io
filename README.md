@@ -3,4 +3,4 @@
 
 永久发布页地址：https://duomihost.github.io  
 
-最新地址：https://go.xmyc.me
+最新地址：https://panda.duomi.host
