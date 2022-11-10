@@ -3,4 +3,4 @@
 
 永久发布页地址：https://duomihost.github.io  
 
-最新地址：https://panda.duomi.host
+最新地址：https://go.dmhosts.com
