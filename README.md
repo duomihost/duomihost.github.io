@@ -4,3 +4,4 @@
 永久发布页地址：https://duomihost.github.io  
 
 最新地址：https://go.dmhosts.com
+新增地址：https://home.dmhosts.com
