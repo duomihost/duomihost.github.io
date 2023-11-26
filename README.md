@@ -3,6 +3,6 @@
 
 永久发布页地址：https://duomihost.github.io  
 
-最新地址：https://hi.dmhosts.com
+最新地址：https://hi.6y.lol
 
-备用地址：https://home.dmhosts.com
+备用地址：https://go.6y.lol
